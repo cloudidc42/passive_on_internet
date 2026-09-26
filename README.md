@@ -27,8 +27,8 @@
 | A | รากฐานความคิด, เป้าหมาย และการวางแผนธุรกิจออนไลน์ | Part 001–010 | 1–100 | ✅ เสร็จแล้ว |
 | B | ขายทักษะและงานฟรีแลนซ์ออนไลน์ (Freelance & Services) | Part 011–020 | 101–200 | ✅ เสร็จแล้ว |
 | C | สร้างคอนเทนต์และแบรนด์ส่วนตัว (Content & Personal Branding) | Part 021–030 | 201–300 | ✅ เสร็จแล้ว |
-| D | การตลาดแบบพันธมิตร (Affiliate Marketing) | Part 031–040 | 301–400 | 🟢 กำลังเขียน |
-| E | E-Commerce พื้นฐาน (Dropshipping, Print-on-Demand, ขายของแรก) | Part 041–050 | 401–500 | ⚪ รอคิว |
+| D | การตลาดแบบพันธมิตร (Affiliate Marketing) | Part 031–040 | 301–400 | ✅ เสร็จแล้ว |
+| E | E-Commerce พื้นฐาน (Dropshipping, Print-on-Demand, ขายของแรก) | Part 041–050 | 401–500 | 🟢 กำลังเขียน |
 | F | E-Commerce ขั้นสูง (สร้างแบรนด์ตัวเอง, Sourcing, คลังสินค้า) | Part 051–060 | 501–600 | ⚪ รอคิว |
 | G | สินค้าดิจิทัลและธุรกิจซอฟต์แวร์ (Digital Products, Info Products, SaaS) | Part 061–070 | 601–700 | ⚪ รอคิว |
 | H | โฆษณาแบบเสียเงินและระบบ Funnel การขาย (Paid Ads & Funnels) | Part 071–080 | 701–800 | ⚪ รอคิว |
@@ -201,7 +201,18 @@
 | Part 029 | `course/part-029-จัดการภาพลักษณ์.md` | ✅ เสร็จแล้ว |
 | Part 030 | `course/part-030-ระบบผลิตคอนเทนต์.md` | ✅ เสร็จแล้ว |
 
-(ตารางนี้จะถูกเพิ่มแถวใหม่ทุกครั้งที่เขียนตอนถัดไปเสร็จ — หมวด A, B, C ครบ 30/100 ตอนแล้ว กำลังเขียนหมวด D ต่อ)
+| Part 031 | `course/part-031-affiliate-marketing-คืออะไร.md` | ✅ เสร็จแล้ว |
+| Part 032 | `course/part-032-เลือกสินค้า-affiliate.md` | ✅ เสร็จแล้ว |
+| Part 033 | `course/part-033-landing-page-รีวิว.md` | ✅ เสร็จแล้ว |
+| Part 034 | `course/part-034-วิดีโอรีวิว.md` | ✅ เสร็จแล้ว |
+| Part 035 | `course/part-035-affiliate-seo.md` | ✅ เสร็จแล้ว |
+| Part 036 | `course/part-036-affiliate-email.md` | ✅ เสร็จแล้ว |
+| Part 037 | `course/part-037-high-ticket-affiliate.md` | ✅ เสร็จแล้ว |
+| Part 038 | `course/part-038-tracking-affiliate.md` | ✅ เสร็จแล้ว |
+| Part 039 | `course/part-039-กฎหมายจริยธรรม-affiliate.md` | ✅ เสร็จแล้ว |
+| Part 040 | `course/part-040-niche-site-portfolio.md` | ✅ เสร็จแล้ว |
+
+(ตารางนี้จะถูกเพิ่มแถวใหม่ทุกครั้งที่เขียนตอนถัดไปเสร็จ — หมวด A-D ครบ 40/100 ตอนแล้ว กำลังเขียนหมวด E ต่อ)
 
 ---
 
