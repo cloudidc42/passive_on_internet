@@ -31,8 +31,8 @@
 | E | E-Commerce พื้นฐาน (Dropshipping, Print-on-Demand, ขายของแรก) | Part 041–050 | 401–500 | ✅ เสร็จแล้ว |
 | F | E-Commerce ขั้นสูง (สร้างแบรนด์ตัวเอง, Sourcing, คลังสินค้า) | Part 051–060 | 501–600 | ✅ เสร็จแล้ว |
 | G | สินค้าดิจิทัลและธุรกิจซอฟต์แวร์ (Digital Products, Info Products, SaaS) | Part 061–070 | 601–700 | ✅ เสร็จแล้ว |
-| H | โฆษณาแบบเสียเงินและระบบ Funnel การขาย (Paid Ads & Funnels) | Part 071–080 | 701–800 | 🟢 กำลังเขียน |
-| I | การขยายธุรกิจ, ระบบอัตโนมัติ, ทีมงาน, การเงินและภาษี (Scale & Ops) | Part 081–090 | 801–900 | ⚪ รอคิว |
+| H | โฆษณาแบบเสียเงินและระบบ Funnel การขาย (Paid Ads & Funnels) | Part 071–080 | 701–800 | ✅ เสร็จแล้ว |
+| I | การขยายธุรกิจ, ระบบอัตโนมัติ, ทีมงาน, การเงินและภาษี (Scale & Ops) | Part 081–090 | 801–900 | 🟢 กำลังเขียน |
 | J | ระดับโลก: ขยายตลาดต่างประเทศ, พอร์ตธุรกิจ, การลงทุนต่อยอด (Global & Professional) | Part 091–100 | 901–1000 | ⚪ รอคิว |
 
 ---
@@ -245,7 +245,18 @@
 | Part 069 | `course/part-069-pricing-strategy-digital.md` | ✅ เสร็จแล้ว |
 | Part 070 | `course/part-070-กฎหมายลิขสิทธิ์.md` | ✅ เสร็จแล้ว |
 
-(ตารางนี้จะถูกเพิ่มแถวใหม่ทุกครั้งที่เขียนตอนถัดไปเสร็จ — หมวด A-G ครบ **70/100 ตอน** กำลังเขียนหมวด H ต่อ)
+| Part 071 | `course/part-071-พื้นฐานโฆษณา.md` | ✅ เสร็จแล้ว |
+| Part 072 | `course/part-072-facebook-instagram-ads.md` | ✅ เสร็จแล้ว |
+| Part 073 | `course/part-073-tiktok-ads.md` | ✅ เสร็จแล้ว |
+| Part 074 | `course/part-074-google-ads.md` | ✅ เสร็จแล้ว |
+| Part 075 | `course/part-075-sales-funnel.md` | ✅ เสร็จแล้ว |
+| Part 076 | `course/part-076-email-line-automation.md` | ✅ เสร็จแล้ว |
+| Part 077 | `course/part-077-อ่านตัวเลขโฆษณา.md` | ✅ เสร็จแล้ว |
+| Part 078 | `course/part-078-retargeting.md` | ✅ เสร็จแล้ว |
+| Part 079 | `course/part-079-ab-testing.md` | ✅ เสร็จแล้ว |
+| Part 080 | `course/part-080-scaling-budget.md` | ✅ เสร็จแล้ว |
+
+(ตารางนี้จะถูกเพิ่มแถวใหม่ทุกครั้งที่เขียนตอนถัดไปเสร็จ — หมวด A-H ครบ **80/100 ตอน** กำลังเขียนหมวด I ต่อ)
 
 ---
 
